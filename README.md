@@ -11,7 +11,7 @@ The package was designed to be used by the operators at the plant-site and hence
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b><i>"Simplicity boils down to two steps:</i></b>
 <br>
 <p align="center"><b><i>Identify the essential... Eliminate the rest."</i><b></p>
-    <p align="center"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Leo Babauta</b></i></p><br>
+    <p align="center"><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Leo Babauta</i></p><br>
 <b>ProBlend works seamlessly for adding new chemistry and loading data. It is fast, reliable and can be debugged easily!</b><br>
 <img width="700" src="./images/simulation.png">
 <br><br>
