@@ -5,11 +5,13 @@
 ProBlend is a result of years of research involving intensive literature survey, kinetics study, sample testing and validation against actual plant processes. It's state-of-the-art incorportion of mineral association chemistry allows it to assess production and provide optimal blending strategies for maximum ore utilization with minimal toxix sludge generation.<br><br>
 The package was designed to be used by the operators at the plant-site and hence requires little-to-no training. ProBlend comes with built-in database and requires minimal installation. 
 
-![index.png](attachment:index.png)
+<div align="center"><img src=./images/index.png></div>
 
-## ProBlend - Simple. Robust. 
-<b><i>"Simplicity boils down to two steps: <br><center>Identify the essential... Eliminate the rest." </center><br></i><b>
-<i><p align="right">-Leo Babauta</p></i><br>
+## ProBlend - Simple. Robust. Intuitive.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b><i>"Simplicity boils down to two steps:</i></b>
+<br>
+<p align="center"><b><i>Identify the essential... Eliminate the rest."</i><b></p>
+    <p align="center"><b><i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Leo Babauta</b></i></p><br>
 <b>ProBlend works seamlessly for adding new chemistry and loading data. It is fast, reliable and can be debugged easily!</b><br>
 <img width="700" src="./images/simulation.png">
 <br><br>
@@ -43,9 +45,9 @@ It is an invaluable process simulation tool that can help to provide tremenduous
 - Efficient and knowledgable plant operators
 
 ## Setup
-<b>Requirements</b>
-    - ProBlend Latest release
-    - license key (currently, distribution is limited and available for educational purposes only)
+<b>Requirements</b><br>
+    - ProBlend Latest release<br>
+    - license key (currently, distribution is limited and available for educational purposes only)<br>
     
-<b>Instructions</b>
-    - Enter license key at prompt and then begin using ProBlend!
+<b>Instructions</b><br>
+    - Enter license key at prompt and then begin using ProBlend!<br>
